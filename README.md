@@ -1,32 +1,33 @@
 # Herd_Management 
 
-🚀 Özellikler
-👥 Kullanıcı kayıt ve giriş sistemi
+⚙️ Özellikler
 
-🐑 Hayvan kayıt ve yönetimi
+🔑 Kullanıcılar için giriş ve kayıt olma
 
-💉 Sağlık kayıtları (aşılar, tedaviler, kontroller)
+🐑 Hayvan Envanter Yönetim Sistemi(Kayıt Ekleme,Silme)
 
-🧰 Bakım ve bakım takibi
+🩺 Sağlık Kayıtları (Aşılar, Tedaviler, Kontroller)
 
-📅 Hatırlatıcı (Randevu, bakım, aşı gibi önemli tarihleri hatırlatma)
+♻️ Bakım ve bakım takibi
 
-📊 Kolay ve basit arayüz
+🔔 Takip ve Uyarı Mekanizması (Randevu, bakım, aşı gibi önemli tarihleri hatırlatma)
 
-💾 Veritabanı destekli çalışma (JDBC ile SQL uyumlu veri yönetimi)
+🧩 Sade ve anlaşılır arayüz
+
+🗃️ Veritabanı destekli çalışma (JDBC ile SQL uyumlu veri yönetimi)
 
 🔧 Teknolojiler
-Java 17 (veya üstü)
+Runtime Ortamı: Java 17+ 
 
-Maven proje yönetimi
+GUI Framework: Swing Toolkit 
 
-Java Swing (GUI için)
+Build Yönetimi:  Maven 
 
-JDBC (Veritabanı bağlantısı)
+Veritabanı Bağlantısı: JDBC 
 
-Katmanlı Mimari: Entity, DAO, Service, View
+Arayüz Tasarım: NetBeans + JForm Designer
 
-NetBeans / JForm Designer (arayüz tasarımı için)
+Mimari Yaklaşım:Entity, DAO, Service, View
 
 ![Screenshot 2025-06-12 125036](https://github.com/user-attachments/assets/4cb40e1e-a8fc-49c5-aa9f-a435ce2373ff)
 ![Screenshot 2025-06-12 125055](https://github.com/user-attachments/assets/7797a78a-15d6-4b3c-9978-5327fb1dbcf0)
